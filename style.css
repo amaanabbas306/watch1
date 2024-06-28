@@ -1,0 +1,94 @@
+header{
+    height: 60px;
+    background-color: black;
+    color: whitesmoke;
+  
+}
+a{
+    color: whitesmoke;
+    margin-right: 100px;
+    text-decoration: none; 
+    padding-left: 4px;
+    
+}
+#logo{
+    color: #f08801;
+}
+button:hover{
+   background-color: #eba834;
+}
+button{
+    color: #f08801;  
+}
+    
+
+.card{
+    height: 300px;
+    width: 250px;
+    background-color: whitesmoke;
+    margin-top: 46px;
+    border: 10px solid black;
+    border-radius: 25px;
+    display: inline-block;
+    padding-right: 12px;
+    padding-bottom: 24px;
+}
+p{
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+}
+.card2{
+    height: 300px;
+    width: 250px;    
+    border-top: 4px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#efg{
+    margin: 5px;
+}
+#abc{
+    margin: 5px;
+}
+.card3{
+    display: inline-block;
+    height: 300px;
+    width: 250px;
+    border: 10px solid black;
+    border-radius: 6px;
+    padding-bottom: 20px;
+}
+.card4{
+    display: inline-block;
+    border: 10px solid black;
+    height: 300px;
+    width: 250px;
+    padding-right: 30px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-radius: 6px;
+}
+.card5{
+    height: 300px;
+    width: 250px;
+    border: 10px solid black;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.card6{
+    height: 300px;
+    width: 250px;
+    border: 10px solid black;
+    padding-right: 8px;
+    display: inline-block;
+    margin: auto;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+    
